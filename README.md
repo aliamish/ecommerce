@@ -1,2 +1,2 @@
 # ecommerce
-This is is my first Git Repository
+This is is my sec Git Repository
